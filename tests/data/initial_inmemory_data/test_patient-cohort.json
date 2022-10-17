@@ -1,0 +1,86 @@
+[{	
+	"_id" : {"$oid":"626aba549ce90c7ccbe9510c"},
+	"cohort_name" : "Pulsify ED Patients",
+	"animal" : false,
+	"number_patients" : 14,
+	"patient_ids" : [
+		"626bc8689ce90c7ccbe95128",
+		"626bc8689ce90c7ccbe95129",
+		"626bc8689ce90c7ccbe9512a",
+		"626bc8689ce90c7ccbe9512b",
+		"626bc8689ce90c7ccbe9512c",
+		"626bc8699ce90c7ccbe9512d",
+		"626bc8699ce90c7ccbe9512e",
+		"626bc8699ce90c7ccbe9512f",
+		"626bc8699ce90c7ccbe95130",
+		"626bc8699ce90c7ccbe95131",
+		"626bc8699ce90c7ccbe95132",
+		"626bc8699ce90c7ccbe95133",
+		"626bc8699ce90c7ccbe95134",
+		"626bc8699ce90c7ccbe95135",
+		"62c4159dc51848f33fa6b2a0"
+	],
+	"pathology" : {
+		"include" : [
+			"severe_heart_failure",
+			"aortic_stenosis"
+		],
+		"exclude" : [ ]
+	},
+	"height" : {
+		"min" : 163,
+		"max" : 183
+	},
+	"weight" : {
+		"min" : 54,
+		"max" : 83
+	},
+	"origin_location" : null,
+	"origin_ethnicity" : null,
+	"age_group" : [
+		"adult",
+		"geriatric"
+	],
+	"phase_heart_cycle" : [
+		"end-diastole"
+	],
+	"measurement_list_ids" : [ ],
+	"client_imaging_data" : null,
+	"datetime_creation" : {
+		"$date" : 1651230852784
+	}
+},
+{	"_id" : {"$oid":"626aba549ce90c7ccbe9520e"},
+	"cohort_name" : "Pulsify ES/ED Patients",
+	"animal" : false,
+	"number_patients" : 0,
+	"patient_ids" : [
+	],
+	"pathology" : {
+		"include" : [
+			"aortic_stenosis"
+		],
+		"exclude" : [ ]
+	},
+	"height" : {
+		"min" : null,
+		"max" : null
+	},
+	"weight" : {
+		"min" : null,
+		"max" : null
+	},
+	"origin_location" : null,
+	"origin_ethnicity" : null,
+	"age_group" : [
+		"adult",
+		"geriatric"
+	],
+	"phase_heart_cycle" : null,
+	"measurement_list_ids" : [ ],
+	"client_imaging_data" : null,
+	"datetime_creation" : {
+		"$date" : 1651232380301
+	}
+}
+]

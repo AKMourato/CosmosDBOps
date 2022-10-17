@@ -1,0 +1,37 @@
+{
+    "datetime_creation": "24-05-2022 16:22:15",
+    "versioning": {
+        "version": 1,
+        "base_patient_id": null,
+        "edited_fields": [
+            null,
+            null
+        ]
+    },
+    "internal_info": {
+        "internal_id": 722,
+        "series": "SER00004"
+    },
+    "age": 73,
+    "height": null,
+    "weight": 70.0,
+    "bsa": null,
+    "bmi": null,
+    "gender": "female",
+    "body_rois": [
+        {
+            "catalog_tag": "heart_and_thorax",
+            "extra_tag": null
+        }
+    ],
+    "es_timestamp": null,
+    "ed_timestamp": 0.85,
+    "pathology": [
+        "tricuspid_valve_insufficiency"
+    ],
+    "origin_location": "europe",
+    "origin_ethnicity": null,
+    "additional_hist": "",
+    "imaging_data": null,
+    "models": null
+}

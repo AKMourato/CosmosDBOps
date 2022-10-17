@@ -1,0 +1,38 @@
+cosmosdb:
+  dep:
+    host: <storage-account-deployment>.mongo.cosmos.azure.com
+    name: deployment
+    conn_str: 
+    
+  dev2:
+    host: <storage-account-dev>.mongo.cosmos.azure.com
+    name: development2
+    conn_str: 
+
+database: <database_name>
+
+collections: ['activity',
+ 'design-history',
+ 'device',
+ 'device-version',
+ 'imaging',
+ 'measurement-category',
+ 'measurement-collection',
+ 'measurement-list',
+ 'measurement-order',
+ 'measurement-type',
+ 'models',
+ 'patient',
+ 'patient-cohort',
+ 'patient-cohort-order',
+ 'patient-reidentification',
+ 'project',
+ 'report',
+ 'room',
+ 'simulation',
+ 'simulation-scenario',
+ 'ssm',
+ 'upload-data',
+ 'user']
+
+

@@ -1,0 +1,168 @@
+[
+{   "_id": {
+    "$oid": "5f7f7ee40bf2b2706460424c"
+  },
+    "datetime_creation": "05-07-2022 12:22:03",
+    "versioning": {
+        "version": 1,
+        "base_patient_id": null,
+        "edited_fields": [
+            null,
+            null
+        ]
+    },
+    "internal_info": {
+        "internal_id": 850,
+        "series": "SER00002"
+    },
+    "age": 46.0,
+    "height": 160.0,
+    "weight": 72.0,
+    "bsa": 1.86,
+    "bmi": 24.06,
+    "gender": "male",
+    "body_rois": [
+        {
+            "catalog_tag": null,
+            "extra_tag": null
+        }
+    ],
+    "es_timestamp": null,
+    "ed_timestamp": 2,
+    "pathology": null,
+    "origin_location": "europe",
+    "origin_ethnicity": "caucasian",
+    "additional_hist": "",
+    "imaging_data": null,
+    "models": "62c4169ec51848f33fa6b2a2"
+},
+{
+    "datetime_creation": "04-07-2022 17:12:22",
+    "versioning": {
+        "version": 1,
+        "base_patient_id": null,
+        "edited_fields": [
+            null,
+            null
+        ]
+    },
+    "internal_info": {
+        "internal_id": 843,
+        "series": "SER00005"
+    },
+    "age": 44.0,
+    "height": 180.0,
+    "weight": 108.0,
+    "bsa": 2.32,
+    "bmi": 33.33,
+    "gender": "male",
+    "body_rois": [
+        {
+            "catalog_tag": "heart_and_thorax",
+            "extra_tag": null
+        }
+    ],
+    "es_timestamp": null,
+    "ed_timestamp": 2,
+    "pathology": null,
+    "origin_location": "europe",
+    "origin_ethnicity": "caucasian",
+    "additional_hist": "",
+    "imaging_data": null,
+    "models": null
+},
+{
+"versioning": {"version": 1,
+    "base_patient_id": null,
+    "edited_fields": [null, null]},
+"internal_info": {"internal_id": 843, "series": ["SER00005", "SER00009"]},
+"age": 44.0,
+"height": 180.0,
+"weight": 108.0,
+"bsa": 2.32,
+"bmi": 33.33,
+"gender": "male",
+"body_rois": [{"catalog_tag": "heart_and_thorax", "extra_tag": null}],
+"es_timestamp": null,
+"ed_timestamp": 2,
+"pathology": null,
+"origin_location": "europe",
+"origin_ethnicity": "caucasian",
+"additional_hist": "",
+"imaging_data": null,
+"models": "62c306d973d9d4a2d9295bfe"},
+{
+    "datetime_creation": "22-06-2022 13:23:28",
+    "versioning": {
+        "version": 1,
+        "base_patient_id": null,
+        "edited_fields": [
+            null,
+            null
+        ]
+    },
+    "internal_info": {
+        "internal_id": 740,
+        "series": ["SER00008","SER00009"]
+    },
+    "age": 83,
+    "height": null,
+    "weight": null,
+    "bsa": null,
+    "bmi": null,
+    "gender": "female",
+    "body_rois": [
+        {
+            "catalog_tag": "heart_and_thorax",
+            "extra_tag": null
+        }
+    ],
+    "es_timestamp": 0.40,
+    "ed_timestamp": 0.82,
+    "pathology": [
+        "tricuspid_valve_insufficiency"
+    ],
+    "origin_location": "europe",
+    "origin_ethnicity": null,
+    "additional_hist": "",
+    "imaging_data": null,
+    "models": "62b445e077febb2c27a41c7d"
+},
+{
+    "datetime_creation": "22-06-2022 13:23:28",
+    "versioning": {
+        "version": 1,
+        "base_patient_id": null,
+        "edited_fields": [
+            null,
+            null
+        ]
+    },
+    "internal_info": {
+        "internal_id": 663,
+        "series": "SER00302"
+    },
+    "age": 80,
+    "height": null,
+    "weight": null,
+    "bsa": null,
+    "bmi": null,
+    "gender": "male",
+    "body_rois": [
+        {
+            "catalog_tag": "heart_and_thorax",
+            "extra_tag": null
+        }
+    ],
+    "es_timestamp": 0.1,
+    "ed_timestamp": 0.7,
+    "pathology": [
+        "tricuspid_valve_insufficiency"
+    ],
+    "origin_location": "north_south_america",
+    "origin_ethnicity": null,
+    "additional_hist": "",
+    "imaging_data": null,
+    "models": "62c4169ec51848f33f999999"
+}
+]

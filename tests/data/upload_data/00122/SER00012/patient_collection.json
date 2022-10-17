@@ -1,0 +1,37 @@
+{
+    "datetime_creation": "27-04-2022 14:37:40",
+    "versioning": {
+        "version": 1,
+        "base_patient_id": null,
+        "edited_fields": [
+            null,
+            null
+        ]
+    },
+    "internal_info": {
+        "internal_id": 122,
+        "series": "SER00012"
+    },
+    "age": 86,
+    "height": 187.0,
+    "weight": 88.0,
+    "bsa": 1.65,
+    "bmi": 24.84,
+    "gender": "female",
+    "body_rois": [
+        {
+            "catalog_tag": "heart_and_thorax",
+            "extra_tag": null
+        }
+    ],
+    "es_timestamp": -1,
+    "ed_timestamp": -1,
+    "pathology": [
+        "aortic_stenosis"
+    ],
+    "origin_location": "europe",
+    "origin_ethnicity": null,
+    "additional_hist": "",
+    "imaging_data": null,
+    "models": null
+}
